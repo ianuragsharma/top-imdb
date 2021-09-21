@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@700&display=swap");
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+body {
+  color: white;
+  background-color: #485461;
+  background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+  font-family: "Koh Santepheap", cursive;
+}
